@@ -29,6 +29,13 @@ A word cloud of title names to give a playful insight into naming trends on Netf
 
 ---
 
+## Dependencies
+pandas
+matplotlib
+seaborn
+wordcloud
+---
+
 ## How to Run
 
 1. Clone this repository.
