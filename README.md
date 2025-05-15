@@ -15,13 +15,16 @@ It includes metadata about Netflix’s available titles, such as type (Movie or 
 
 ## Features
 
-**Movies vs TV Shows Count**
+**Movies vs TV Shows Count**: 
 Comparison of how many titles are movies vs shows.
-**Content Added Over the Years**
+
+**Content Added Over the Years**: 
 Trend showing how many new titles were added each year.
-**Top Genres**
+
+**Top Genres**: 
 Most commonly listed genres on the platform.
-**Fun Extras**
+
+**Fun Extras**: 
 A word cloud of title names to give a playful insight into naming trends on Netflix.
 
 ---
